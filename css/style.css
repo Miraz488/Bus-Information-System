@@ -1,0 +1,24 @@
+element {
+}
+.box-header.with-border {
+    border-bottom: 1px solid #f4f4f4;
+}
+.box-header {
+    color: #444;
+    display: block;
+    padding: 10px;
+    position: relative;
+}
+.rubel{
+	padding-top:60px;
+}
+#vehicle-root{
+	padding-left:150px;
+}
+
+/*.foot{
+	height: 100px;
+	width: 100px;
+	background-color: black;
+
+}*/
